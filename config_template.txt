@@ -1,0 +1,40 @@
+Policy							Policy Setting
+Enforce password history				<value> passwords remembered
+Maximum password age					<value> days
+Minimum password age					<value> days
+Minimum password length					<value> days
+Account lockout duration				<value> minutes
+Account lockout threshold				<value> invalid logon attempts
+Reset account lockout counter after			<value> minutes
+Password must meet complexity requirements		<value>
+Store passwords using reversible encryption		<value>
+Access this computer from the network			<value>
+Act as part of the operating system			<value>
+Add workstation to domain				<value>
+Adjust memory quotas for a process			<value>
+Allow log on locally					<value>
+Allow log on through Remote Desktop Services		<value>
+Back up files and directories				<value>
+Create a pagefile					<value>
+Create a token object					<value>
+Create permanent Shared objects				<value>
+Deny access to this computer from the network		<value>
+Windows Firewall: Domain: Firewall State		<value>
+Windows Firewall: Domain: Firewall Policy		<value>
+Windows Firewall: Domain: LogAllowedConnections		<value>
+Windows Firewall: Domain: LogDroppedConnections		<value>
+Windows Firewall: Domain: FileName			<value>
+Windows Firewall: Domain: MaxFileSize			<value>
+Windows Firewall: Private: Firewall State		<value>
+Windows Firewall: Private: Firewall Policy		<value>
+Windows Firewall: Private: LogAllowedConnections	<value>
+Windows Firewall: Private: LogDroppedConnections	<value>
+Windows Firewall: Private: FileName			<value>
+Windows Firewall: Private: MaxFileSize			<value>
+Windows Firewall: Public: Firewall State		<value>
+Windows Firewall: Public: Firewall Policy		<value>
+Windows Firewall: Public: LogAllowedConnections		<value>
+Windows Firewall: Public: LogDroppedConnections		<value>
+Windows Firewall: Public: FileName			<value>
+Windows Firewall: Public: MaxFileSize			<value>
+
